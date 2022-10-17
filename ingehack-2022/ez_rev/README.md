@@ -1,5 +1,11 @@
 # ez_rev
 
+## Desciption
+
+```Wannna learn reverse ? here is an easy challenge```
+
+## Solution
+
 - First, we open the binary in ghidra.
 - We look for the main function.
 
