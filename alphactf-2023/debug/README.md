@@ -2,7 +2,7 @@
 
 ## Description
 
-```Do you think you can Debug this program you better think TWICE.``
+```Do you think you can Debug this program you better think TWICE.```
 
 ## Attachment:
 [Chall](./challenge/chall)
